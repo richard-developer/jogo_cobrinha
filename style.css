@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column; /*alinha os elementos em coluna ( um abaixo do outro)*/
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(52, 165, 52);
+    
+}
